@@ -5,7 +5,7 @@ export default () => {
   return (
     <div>
       <Helmet>
-        <title>BGSRA Masthead</title>
+        <title>BGSRA</title>
         <meta
           name='description'
           content='This is what you want to show as the page content in the Google SERP Listing'
@@ -17,8 +17,8 @@ export default () => {
             Applied Social Research Contractors
           </div>
           <div className='masthead-subheading'>
-            We can collect vital data for you, or run your existing data through
-            our cutting-edge analysis techniques, or BOTH!
+            We collect data for you, or run your existing data through our
+            cutting-edge analysis techniques, or BOTH!
           </div>
           <div className='wrapper'>
             <a
