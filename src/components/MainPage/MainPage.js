@@ -8,16 +8,15 @@ class MainPage extends React.Component {
   render() {
     return (
       <div>
+        <Masthead />
+        <Services />
         <Helmet>
-          <title>ASRC Home</title>
+          <title>ASRC | Home</title>
           <meta
             name='description'
             content='This is what you want to show as the page content in the Google SERP Listing'
           />
         </Helmet>
-        <Masthead />
-        <Services />
-        {/*<SupportingLogos />*/}
       </div>
     );
   }

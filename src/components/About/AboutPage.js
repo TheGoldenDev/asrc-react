@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Helmet } from 'react-helmet';
 import Footer from '../MainPage/Footer';
-import jonathan from '../../assets/img/j-profile2.jpg';
+import jonathan from '../../assets/img/j-profile.jpg';
 import rebecca from '../../assets/img/b-profile.jpg';
 
 export default class AboutPage extends Component {
@@ -9,7 +9,7 @@ export default class AboutPage extends Component {
     return (
       <div>
         <Helmet>
-          <title>ASRC About Us</title>
+          <title>ASRC | About Us</title>
           <meta
             name='description'
             content='This is what you want to show as the page content in the Google SERP Listing'
@@ -17,7 +17,7 @@ export default class AboutPage extends Component {
         </Helmet>
         <section className='page-section bg-light' id='team'>
           <h1 className='text-center section-heading text-uppercase'>
-            Who We Are And What We Do
+            About Us
           </h1>
           <div className='container'>
             <div className='background'>

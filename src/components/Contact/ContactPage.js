@@ -8,7 +8,7 @@ export default class ContactPage extends React.Component {
     return (
       <div>
         <Helmet>
-          <title>ASRC Contact</title>
+          <title>ASRC | Contact</title>
           <meta
             name='description'
             content='This is what you want to show as the page content in the Google SERP Listing'
@@ -22,7 +22,7 @@ export default class ContactPage extends React.Component {
                 We look forward to hearing from you!
               </h3>
             </div>
-            <form id='contactForm' name='sentMessage' novalidate='novalidate'>
+            <form id='contactForm' name='sentMessage' noValidate='novalidate'>
               <div className='row align-items-stretch mb-5'>
                 <div className='col-md-6'>
                   <div className='form-group'>

@@ -39,11 +39,13 @@ class Navbar extends React.Component {
     }
   };
 
-  componentWillMount() {
-    document.addEventListener('mousedown', this.handleClick, false);
-  }
+  //depreciated
+  //componentWillMount() {
+  //  document.addEventListener('mousedown', this.handleClick, false);
+  //}
 
   componentDidMount() {
+    document.addEventListener('mousedown', this.handleClick, false);
     window.addEventListener('scroll', this.handleScroll);
   }
 
