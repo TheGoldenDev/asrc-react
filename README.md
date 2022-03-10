@@ -114,7 +114,7 @@
 
 ## Usage
 
-[![Ravenous Feature Screen Shot][feature-screenshot]](https://asrc-demo-9884cc.netlify.app/)
+[![ASRC Feature Screen Shot][feature-screenshot]](https://asrc-demo-9884cc.netlify.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -180,5 +180,5 @@ Project Link: [https://github.com/TheGoldenDev/asrc-react](https://github.com/Th
 [license-url]: https://github.com/TheGoldenDev/asrc-react/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/spencer-wood-web-dev
-[product-screenshot]: public/screenshot.jpg
+[screenshot]: public/screenshot.jpg
 [feature-screenshot]: public/feature-screenshot.jpg
